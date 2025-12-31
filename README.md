@@ -1,4 +1,4 @@
-# Zomato Analytics Project (Excel)
+# Zomato Analytics Project 
 ## Project Overview
 
 This project focuses on analyzing Zomato restaurant data using Microsoft Excel to extract meaningful business insights. The analysis helps understand restaurant distribution, customer ratings, cuisines, and city-level performance. Excel features such as formulas, pivot tables, and charts are used to convert raw data into actionable insights.
